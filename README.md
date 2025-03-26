@@ -1,4 +1,4 @@
-# Header 1 Wrap timeline cursor
+# Wrap timeline cursor
 
 This script allows users to move the timeline cursor in Blender using keyboard shortcuts.
 
