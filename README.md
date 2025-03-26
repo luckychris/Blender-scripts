@@ -1,0 +1,1 @@
+After running the script you can use the "alt"-"left arrow" key to move to the previous frame. If it would be lower than the first frame, it will jump to the last frame. Same for the "alt"-"right arrow" key, just for next frame.
